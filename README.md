@@ -1,5 +1,7 @@
 # 🎓 Turing Award Lectures
 
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0%201.0-gray)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 Every recipient of the ACM A.M. Turing Award has given a lecture, and a lot of them hold up as genuinely good writing about computing, not just historical curiosities. For most of this list's history, the only place they were published — [`dl.acm.org`](https://dl.acm.org/) — sat behind a login wall, which is why this table exists: one link per laureate, 1966–2025, pointed at a version that's actually free to open.
 
 🌐 **Languages:** [日本語版 (Japanese)](./README.ja.md) · [📖 Detailed Biographies](./LAUREATES.md) 

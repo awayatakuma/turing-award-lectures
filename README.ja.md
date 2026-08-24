@@ -1,5 +1,7 @@
 # 🎓 Turing Award Lectures（チューリング賞講演）
 
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0%201.0-gray)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 ACM A.M. Turing Award の全ての受賞者は講演を行ってきており、その多くは単なる歴史的好奇心ではなく、コンピュータ科学について本当に優れた著作として今日でも価値を保っています。このリストの歴史の大部分において、講演が発表された唯一の場所は [`dl.acm.org`](https://dl.acm.org/)（ログイン壁の背後）でした。このため、このテーブルが存在します。各受賞者（1966～2025年）へのリンクが、実際に無料でアクセスできるバージョンを指しています。
 
 🌐 **言語:** [English](./README.md) · [📖 詳細な受賞者紹介](./LAUREATES.ja.md)
