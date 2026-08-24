@@ -554,9 +554,291 @@ Kay の貢献はシステムを超えて、コンピューティングが人間�
 
 ---
 
-## 2004年以降の受賞者
+## 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
 
-2004年から2025年までのその他の受賞者（Vinton Cerf & Robert Kahn、Peter Naur、Frances Allen、Edmund Clarke & E. Allen Emerson & Joseph Sifakis、Barbara Liskov、Charles Thacker、Leslie Valiant、Judea Pearl、Leslie Lamport、Michael Stonebraker、Whitfield Diffie & Martin Hellman & Tim Berners-Lee、John Hennessy & David Patterson、Yoshua Bengio & Geoffrey Hinton & Yann LeCun、Edwin Catmull & Pat Hanrahan、Alfred Aho & Jeffrey Ullman & Jack Dongarra、Robert Metcalfe、Avi Wigderson、Andrew Barto & Richard Sutton、Charles Bennett & Gilles Brassard）の詳細な伝記情報については、英語版の[[LAUREATES.md]](./LAUREATES.md)をご参照ください。
+**受賞理由:** For their design and realization of the TCP/IP protocols that are the foundation of the Internet. [[ACM source]](https://amturing.acm.org/award_winners/cerf_1083211.cfm)
+
+CerfとKahnはインターネットの基礎となるTCP/IP（Transmission Control Protocol/Internet Protocol）プロトコルスイートを設計しました。異なるネットワークテクノロジーを使用する異なる種類のネットワークを接続する問題を解決しました。TCP/IPは、異なるネットワークが相互運用できるための共通言語を提供し、各ネットワークが同じ基盤のテクノロジーを使用することを要求せずに。
+
+TCPは信頼性の高い通信を提供し、IPはネットワークを接続するためのシンプルだが優雅なルーティング機構を提供しました。これらのプロトコルの組み合わせにより、中央管理を必要としない世界的で分散型のネットワークの構築が可能になりました。彼らのアーキテクチャ上の決定（特にIPの単純性とTCPの信頼性特性）は、インターネットの成長に先見的でした。
+
+彼らのTCP/IP設計への貢献は、相互運用性と普遍的な接続が通信ネットワークで達成できることを確立しました。彼らはプロトコル仕様を公開することで、TCP/IPの広範な採用を可能にし、オープン標準の重要性を実証しました。インターネットを支える基本的なプロトコルを設計および展開したことで、彼らはグローバル社会を根本的に形成しました。
+
+---
+
+## 2005 – [Peter Naur](https://en.wikipedia.org/wiki/Peter_Naur)
+
+**受賞理由:** For his fundamental design and realization of the ALGOL 60 programming language and his contributions to programming language design and programming methodology. [[ACM source]](https://amturing.acm.org/award_winners/naur_1024454.cfm)
+
+NaurはALGOL 60言語を設計した委員会の主要メンバーで、事実上すべての後続の命令型プログラミング言語に影響を与えたランドマーク言語です。彼はAlgol 60レポートの主要著者であり、言語の形式的仕様でした。彼のプログラミング言語の形式的説明の仕事は、言語がどのように仕様化および記述されるべきかについての標準を確立し、後続の言語がどのように記録されるかに影響を与えました。Algol 60レポートは言語仕様のモデルになりました。
+
+ALGOL 60を超えて、Naurはプログラミング方法論とソフトウェアエンジニアリングに重要な貢献をしました。プログラム構造の「定義」（defs）の概念の開発は、プログラム組織と記録の現代的なアプローチを先取りしました。構造化プログラミングに関する彼の仕事は、プログラマーが複雑なシステムをどのように考えるかに影響を与えました。彼は明確な通信をプログラム設計で強調し、技術的概念の説明で明確さと理解可能性の基準を確立しました。
+
+彼のキャリアは、プログラミング言語設計と方法論の基準を確立し、後続の言語設計者に影響を与えました。
+
+---
+
+## 2006 – [Frances E. Allen](https://en.wikipedia.org/wiki/Frances_Allen)
+
+**受賞理由:** For her pioneering contributions to the theory and practice of optimizing compiler design. [[ACM source]](https://amturing.acm.org/award_winners/allen_1012327.cfm)
+
+Allenはチューリング賞を受賞した最初の女性で、コンパイラ設計と最適化に基礎的な貢献をしました。データフロー解析（プログラムを通じてデータがどのように流れるかを理解するための技術）に関する彼女の仕事は、プログラム最適化のための数学的基礎を確立しました。彼女はコントロールフローグラフとデータフロー方程式を開発しました。コンパイラーが自動的にプログラムパフォーマンスを改善するために使用できるツール。
+
+プログラム最適化を超えて、彼女の仕事はプログラム最適化が体系的で厳密であることができることを確立しました。コンパイラーはプログラムコード内の構造を識別して活用することで自動的にパフォーマンスを改善できます。彼女の仕事は、プログラマーが手作業でコードを最適化する必要性を軽減しました。
+
+Allenのキャリアは長期にわたる研究で基準を設定しました。数十年にわたってコンパイラー設計と最適化に取り組み、分野を継続的に推し進めました。彼女のコンピュータサイエンスへの貢献が男性と同じくらい基礎的であることができることの実証は、彼女の技術的な貢献と同じくらい重要でした。彼女の最適化技術は現代的なコンパイラーに関連性を保ちます。
+
+---
+
+## 2007 – [Edmund M. Clarke](https://en.wikipedia.org/wiki/Edmund_M._Clarke)
+
+**受賞理由:** For their work on Model Checking and their contributions to the automatic verification of reactive systems and concurrent software. [[ACM source]](https://amturing.acm.org/award_winners/clarke_1167964.cfm)
+
+Clarke（E. Allen Emerson と Joseph Sifakis と共に）はモデル検査を開発しました。これは有限状態システムが形式的仕様を満たすかを確認するための自動化された技術です。モデル検査はすべての可能なシステム状態を徹底的に探索して検証を行い、数学的な正確さの保証を提供します。この技術は実践的であることが証明され、ハードウェアとソフトウェアシステムの検証に使用され、微妙なバグを検出できます。
+
+彼のモデル検査理論への貢献、特に効率的なアルゴリズムの開発は、アプローチが実践的な問題にスケーリングできることを可能にしました。大規模システムを処理するための抽象化技術に関する彼の研究は、徹底的な検証が実現不可能なシステムを扱う方法を示しました。
+
+Clarkeの仕事は形式的検証が理論的に可能なだけでなく実践的に有用であることを示しました。彼の貢献は、特に安全性が重大なシステムについては検証がコンピュータサイエンスの重要な技術であることを確立するのに役立ちました。
+
+---
+
+## 2007 – [E. Allen Emerson](https://en.wikipedia.org/wiki/E._Allen_Emerson)
+
+**受賞理由:** For their work on Model Checking and their contributions to the automatic verification of reactive systems and concurrent software. [[ACM source]](https://amturing.acm.org/award_winners/emerson_1671460.cfm)
+
+Emersonは時間論理モデル検査を開発しました。これはAmir Pnueliの時間論理を自動検証技術と組み合わせたアプローチです。彼は時間特性を効率的に検証できるモデル検査のアルゴリズムを開発し、モデル検査が実践的であることを示しました。彼のClarkとの仕事は時間論理がリアクティブシステムの特性を指定するための表現力のあるフレームワークを提供し、それらの特性を自動的に検証できることを確立しました。
+
+彼のモデル検査理論への貢献、特に様々なモデル検査問題のための効率的なアルゴリズムは、ますます複雑なシステムへの応用を可能にしました。徹底的な検証が実現不可能なシステムを扱うための抽象化技術に関する彼の研究は、スケーラビリティを実現する方法を示しました。
+
+Emersonの仕事は形式的検証が実践的になることを示しました。彼の理論的検証技術と実践的なツール開発の間のギャップを埋めることへの強調は、後続の検証研究がどのように進められるかに影響を与えました。
+
+---
+
+## 2007 – [Joseph Sifakis](https://en.wikipedia.org/wiki/Joseph_Sifakis)
+
+**受賞理由:** For their work on Model Checking and their contributions to the automatic verification of reactive systems and concurrent software. [[ACM source]](https://amturing.acm.org/award_winners/sifakis_1701095.cfm)
+
+Sifakisはプロセス代数とリアクティブシステムの自動検証技術を開発しました。LOTOS（Language of Temporal Ordering Specification）言語の仕事は、分散および並行システムの指定のための形式的方法を確立しました。彼は、システムが形式的仕様を満たすかを検証するための技術を開発し、自動検証の理論的および実践的基礎に貢献しました。
+
+彼のリアクティブシステムの理解と、行動仕様と実装の間の関係についての仕事は、正確性についての推論のためのフレームワークを確立しました。検証用ツールの開発は、形式的方法の実際のシステムへの実践的な応用を可能にしました。
+
+Sifakisの研究は、形式的システム行動仕様が厳密に検証でき、その検証が自動化できることを示しました。彼の並行システムの検証技術への貢献は、分散および並列システムがどのように構築および検証されるかに影響を与えました。
+
+---
+
+## 2008 – [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov)
+
+**受賞理由:** For her pioneering work in the design and realization of programming languages and her contributions to the theory and practice of object-oriented programming. [[ACM source]](https://amturing.acm.org/award_winners/liskov_1108679.cfm)
+
+Liskovはプログラミング言語設計とオブジェクト指向プログラミングへの基本的な貢献をしました。Liskov置換原則（派生クラスは基底クラスの代わりになるべきで、プログラムの正確性を破ることなく）は、オブジェクト指向設計の基礎原則を確立しました。この原則は継承階層がどのように設計されるべきかに影響を与え、型システムがオブジェクト指向プログラムについての重要な特性を強制できることを示しました。
+
+彼女のVenusプログラミング言語（後にCLUと呼ばれる）の設計は、抽象データ型、例外処理、およびイテレータを先駆けしました。CLUは後続の言語設計に影響を与え、プログラマーがデータについて考える方法を直接サポートする言語構成を確立するパターンが現れました。
+
+Liskovの仕事は、言語構成が良いプログラミング習慣を奨励し、悪い習慣を阻止する必要があることを示しました。彼女のチューリング賞講演「抽象化の力」は、抽象化がいかに複雑なシステムを隠すことで構築を可能にするかを説明しました。詳細を隠し、単純なインターフェイスを提供します。
+
+---
+
+## 2009 – [Charles P. Thacker](https://en.wikipedia.org/wiki/Chuck_Thacker)
+
+**受賞理由:** For his design and realization of the Alto, the first modern personal computer, and his contributions to the Ethernet and tablet computing. [[ACM source]](https://amturing.acm.org/award_winners/thacker_1336106.cfm)
+
+Thackerはパーソナルコンピュータの最初のモダンな例であるAltoを設計および構築しました。Xerox PARCでAlan KayおよびButler Lampstonの指導の下、彼はグラフィカルディスプレイ、マウス入力、ネットワーク、およびソフトウェアを単一の統合コンピュータに組み合わせたシステムを実装しました。Altoは商業的に成功しませんでしたが、パーソナルコンピュータの概念を示し、Apple Macintoshを含む後続のパーソナルコンピュータの設計に影響を与えました。
+
+彼の仕事は、一人または小さなチームが完全なコンピュータシステムを設計および構築できることを示しました。これはパーソナルコンピューティングの後続の開発に影響を与えました。グラフィカルユーザーインターフェイスとネットワークされたパーソナルコンピュータの実現可能性を示した彼の功績は、パーソナルコンピュータ革命にとって必須でした。
+
+Thackerのキャリアは、単なるアイデアではなく、完成したシステムを構築することの重要性を示しました。Altoの実装は、彼らが単なる夢ではなく実現可能であることを証明しました。彼の仕事は、アクセス可能なテクノロジーとしてのコンピューティングの出現に貢献しました。
+
+---
+
+## 2010 – [Leslie G. Valiant](https://en.wikipedia.org/wiki/Leslie_Valiant)
+
+**受賞理由:** For his fundamental contributions to the development of computational learning theory and the broader theory of computation. [[ACM source]](https://amturing.acm.org/award_winners/valiant_2612174.cfm)
+
+Valiantは確率的にほぼ正しい（PAC）学習の理論を開発し、機械学習の理論的基礎を確立しました。彼のフレームワークは学習アルゴリズムが成功するが何を意味するかを形式化しました。完全な精度を必要とせず、見たことのないデータの確率的にほぼ正しい仮説を見つけます。この理論的フレームワークは学習アルゴリズムの厳密な分析と、様々な概念を学ぶために必要なサンプル複雑性を可能にしました。
+
+複雑性理論への彼の貢献は学習を超えました。彼は永遠（全順列の多項式）の複雑性に関する基本的な結果を確立し、この基本的な計算が#P完全（複雑性クラス）であることを示しました。その中で最も困難です。
+
+Valiantの仕事は計算複雑性の洞察が学習問題をいかに照らすことができるかを示しました。彼のPAC学習フレームワークは後続の機械学習研究に影響を与え、学習が可能な場合とその方法についての理論的ツールを提供しました。彼の機械学習を厳密な理論的基礎を持つ規律として確立することへの貢献は、研究と実践の両方に影響を与えたままです。
+
+---
+
+## 2012 – [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl)
+
+**受賞理由:** For his fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning. [[ACM source]](https://amturing.acm.org/award_winners/pearl_2658896.cfm)
+
+Pearlはベイジアンネットワークを開発しました。これは変数間の確率的関係を表すグラフィカルモデルです。彼のフレームワークは、構造の確率分布を活用することで不確実性の下での効率的な推論を可能にします。ベイジアンネットワークはAI、機械学習、および確率的推論に中心的になりました。彼のベイジアンネットワークでの推論のためのアルゴリズムは、観測が与えられた確率を計算するための効率的な方法を確立しました。
+
+さらに深く、Pearlは因果性の正式な微積分を開発しました。これは因果関係についての推論のための数学的ツールです。彼の仕事は確率的推論の基本的な限界に対処しました。それは関係を把握することのみができ、因果関係ではありません。彼の do-微積分は介入と因果効果についての推論のためのルールを提供し、因果性が形式的に定義され推論できることを確立しました。
+
+Pearlの仕事は、AI研究が数学的な厳密性と形式的なフレームワークを必要とすることを示しました。彼の因果性を推論するためのツール開発は、AI研究と、統計学を含む応用分野の両方に影響を与えました。彼の因果性が形式的に推論できることの確立は、コンピュータサイエンスと科学が根本的な不確実性と因果性の質問にアプローチする方法に影響を与えました。
+
+---
+
+## 2013 – [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport)
+
+**受賞理由:** For his fundamental contributions to the theory and practice of distributed and concurrent systems. [[ACM source]](https://amturing.acm.org/award_winners/lamport_1205376.cfm)
+
+Lamportは分散システムの理論と実践に基本的な貢献をしました。グローバルクロックなしでシステム内の時間と因果関係に関する彼の仕事は、論理時間と因果前に関する概念を確立しました。これらのアイデアは、イベントが他のイベントを因果的に先行するかどうかを理由付けするための枠組みを提供します。Lamport のタイムスタンプは、グローバルクロックなしでシステムがイベントの順序を決定できるようにします。
+
+彼のPaxosおよび他の合意アルゴリズムの開発は、分散システムが一部のコンポーネントが失敗した場合でも合意に達することができるプロトコルを確立しました。これらのアルゴリズムは、信頼できる分散システムの構築に不可欠になりました。彼の時間論理とそれを分散システムの指定と検証に応用することに関する仕事は、システムの正確性についての推論のための形式的ツールを提供しました。
+
+Lamportの貢献は、分散システムが数学的に厳密に分析できることを示しました。彼の形式的仕様と数学的証明への強調は分散システム設計がどのように進められるべきかについての標準を確立しました。彼の仕事は、複数のコンピュータが調整する必要があるシステムでの信頼性と正確性がどのように達成されるかに影響を与えました。
+
+---
+
+## 2014 – [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker)
+
+**受賞理由:** For his fundamental contributions to the concepts and tools for relational databases. [[ACM source]](https://amturing.acm.org/award_winners/stonebraker_1172121.cfm)
+
+Stonebrakerはデータベースシステムのパイオニア開発者で、IngressおよびPostgresを含む複数の影響力のあるデータベースシステムを設計および実装しました。彼の仕事は、リレーショナルデータベースがどのように実装できるかを実践的に示しました。クエリー最適化、並行制御、および回復の彼のイノベーションは、データベースで今日も標準である技術を確立しました。Postgresの彼の設計は、拡張可能なデータ型とルールシステムなどの機能を導入し、後続のデータベースアーキテクチャに影響を与えました。
+
+彼の貢献はシステムを超えました。彼は、分析データベース、時間データベース、および異なるアプリケーション領域用の専用データベースに関する研究で、ワンサイズフィットはすべてのデータベース設計では不十分であり、データベースは特定のワークロードと要件のために調整されるべきであることを示しました。
+
+Stonebrakerのキャリアはアイデアを検証するためにシステムを構築することの重要性を示しました。彼の多くのデータベースシステムはデータベースがどのように設計され使用されるかに影響を与えました。彼の原則的なデータベース設計への提唱は業界実践に影響を与えました。データを管理する現代的なシステムでの彼の貢献への進化は、データが現代的なコンピューティング中心に重要であること、そしてデータベースがこの役割に進化する必要があることを示しました。
+
+---
+
+## 2016 – [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie)
+
+**受賞理由:** For their fundamental contributions to cryptography. [[ACM source]](https://amturing.acm.org/award_winners/diffie_8371646.cfm)
+
+Diffie（Martin Hellman と共に）は公開鍵暗号を発明しました。コンピュータサイエンスと社会で最も重要なイノベーションの一つ。彼らは、二者が秘密鍵を共有することなく安全に通信できることを示しました。一方の当事者が公開鍵を発行し、誰もがそれを使用して暗号化メッセージを送信できます。秘密鍵を持つ当事者のみが復号化できます。この革新的な概念は、何世紀もの間暗号化を悩ませてきた鍵分配問題を解決しました。
+
+彼らの仕事は理論的だけでなく実践的な含意を持ちました。彼らは公開鍵暗号化の実現可能性と潜在的な応用を示しました。彼らは特定の公開鍵暗号システム（RSAは最初の実践的な実装でした）を発明しませんでしたが、彼らの理論的な仕事は基礎を確立しました。彼らのアルゴリズムの秘密性ではなく数学的硬度に基づいてセキュリティを示しました。
+
+Diffieのキャリアはまた暗号化研究の基本的な重要性を示しました。プライバシーと市民の自由への彼の強調は、暗号化研究が社会的および政治的含意を持つことを確立しました。彼の公開鍵暗号化の実現可能性と必須性を確立することへの貢献は、現代的なセキュアな通信とデジタル商取引に影響を与えました。
+
+---
+
+## 2016 – [Martin E. Hellman](https://en.wikipedia.org/wiki/Martin_Hellman)
+
+**受賞理由:** For their fundamental contributions to cryptography. [[ACM source]](https://amturing.acm.org/award_winners/hellman_4055781.cfm)
+
+Hellman はWhitfield Diffie と共に公開鍵暗号を発明しました。彼の理論的な仕事は、逆関数を計算するのが難しく、秘密情報（トラップドア）がない限り反転するのが簡単（トラップドア関数）という概念を確立しました。このコンセプトは公開鍵暗号に中心的になりました。Diffie-Hellman鍵交換プロトコルの彼の開発は、2つの当事者が安全でないチャネルを介して共有秘密を確立するための実用的な方法を示しました。
+
+彼は暗号化システムのセキュリティに関する研究で、暗号化セキュリティが数学的に分析および定量化できることを示しました。時間メモリのトレードオフに関する彼の仕事、様々な暗号化システムを破るのに必要な計算リソースについての基本的な結果を確立しました。
+
+Hellmanのキャリアはまた、即座の応用が不明確でも根本的な研究を追求することの重要性を示しました。彼の初期の公開鍵暗号化の仕事は最初は懐疑的で見られましたが、最終的に変革的であることが証明されました。プライバシーと市民の自由への彼の強調は、暗号化研究が社会的含意を持つことを確立しました。彼の公開鍵暗号化を実践的で必須として確立することへの貢献は、現代的なセキュアな通信に影響を与えました。
+
+---
+
+## 2016 – [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+
+**受賞理由:** For inventing the World Wide Web and his leadership in defining web standards that enabled its universal adoption. [[ACM source]](https://amturing.acm.org/award_winners/berners-lee_8087960.cfm)
+
+Berners-Leeは物理研究ラボラトリーCERNで働いていた間にWorld Wide Webを発明しました。彼は科学者がより良い情報共有ツールを必要としていることを認識し、ハイパーテキスト（他のドキュメントへのリンクを含むドキュメント）に基づくシステムを提案しました。彼はドキュメント転送用のHTTP（HyperText Transfer Protocol）、ドキュメント形式用のHTML（HyperText Markup Language）を設計し、最初のWebブラウザーとサーバーを構築しました。
+
+Webの彼の設計は技術的にだけでなく社会的に革新的でした。彼はWebがオープンでアクセス可能であるべきことを提唱し、それを制限または商業化しようとする取り組みに抵抗しました。オープンで無料のままであることへの彼の主張は、爆発的な成長と世界的な採用に不可欠でした。オープン標準と普遍的なアクセスへの彼の強調はWebがどのように発展したかに影響を与えました。
+
+Webはおそらく他のコンピュータテクノロジーよりも人間の文明をさらに変えました。通信、商取引、教育、社会全体への影響は過大評価することは困難です。Berners-Leeの貢献は技術発明を超えました。システムの社会的含意を考慮し、それらの有益な使用を提唱する責任を示しました。
+
+---
+
+## 2017 – [John L. Hennessy & David A. Patterson](https://en.wikipedia.org/wiki/John_Hennessy) / [David_Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist))
+
+**受賞理由:** For pioneering design and realization of RISC (Reduced Instruction Set Computer), which led to decades of innovation in computer design. [[ACM source]](https://amturing.acm.org/award_winners/hennessy_1426931.cfm)
+
+HennessyとPatterson は RISC（削減されたインストラクションセットコンピュータ）アーキテクチャ研究を主導し、それは プロセッサ設計に革命をもたらしました。John Cockeの前の仕事に基づいて、彼らはMIPS（パイプラインステージなしのマイクロプロセッサ）とSPARC（スケーラブルプロセッサアーキテクチャ）プロセッサを開発し、シンプルな命令セット、高速パイプライン、効率的なコンパイラサポートで高パフォーマンスを達成できることを示しました。
+
+彼らのテキスト『Computer Architecture: A Quantitative Approach』はコンピュータアーキテクチャの決定的な参考文献になり、コンピュータ科学者がどのように訓練されるかに影響を与えました。テキストは定量的分析と実際の測定を強調し、厳密なアーキテクチャ研究のための標準を確立しました。彼らのアーキテクチャ設計へのエビデンスベースアプローチは、コンピュータサイエンスの方法論全体に影響を与えました。
+
+彼らのRISCアーキテクチャを確立することへの貢献は、複数の世代のプロセッサ設計者に影響を与えました。最新のプロセッサは複雑な命令セットを持っていても、RISC原則を組み込んでいます。彼らの研究は、慎重な測定と分析が習慣的な知恵をひっくり返すことができることを示しました。
+
+---
+
+## 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+**受賞理由:** For their groundbreaking advances in deep neural networks and their applications to computer vision, speech recognition, and natural language processing. [[ACM source]](https://amturing.acm.org/award_winners/hinton_4791679.cfm)
+
+Bengio、Hinton、LeCunはディープラーニング革命のリーダーで、それは人工知能と機械学習を変えました。彼らの研究は、深いニューラルネットワーク（多くの層の人工ニューロン）が視覚、音声、および言語タスクで画期的な結果を達成できることを確立しました。彼らの仕事は、深いネットワークが訓練するのが難しいという習慣的な知恵を逆転させ、適切な技術でそれらは驚くべきパフォーマンスを達成できることを示しました。
+
+LeCunはコンボリューション新経ネットワーク（CNN）を開発しました。空間データ処理の特殊化された層を持つネットワーク。CNNはコンピュータビジョンで標準になり、マシンが前例のない精度で画像内のオブジェクトを認識できるようにしました。Hinton はディープネットワークを効率的に訓練するためのバックプロパゲーション技術を開発し、深層学習リサーチをパイオニアしました。Bengio は深いネットワークが分散表現を学ぶ方法に貢献し、非常に深いネットワークをトレーニングするための技術を開発しました。
+
+彼らの総合的な仕事はディープラーニングを最新のAIと機械学習で支配的なパラダイムとして確立しました。彼らのリサーチはアカデミアを超えてインダストリーに影響を与え、ディープラーニングがWebサーチから自律車両への製品の中央に標準化されました。彼らの貢献を示すデータと計算をインテリジェントな行動に変換することができる。
+
+---
+
+## 2019 – [Edwin Catmull & Pat Hanrahan](https://en.wikipedia.org/wiki/Ed_Catmull) / [Pat_Hanrahan](https://en.wikipedia.org/wiki/Pat_Hanrahan)
+
+**受賞理由:** For fundamental contributions to 3D computer graphics that enabled the revolution in computer-generated imagery for film, games, and interactive media. [[ACM source]](https://amturing.acm.org/award_winners/catmull_1244219.cfm)
+
+Catmull と Hanrahan はコンピュータグラフィックスに基本的な貢献をしました。特に3Dシーンのレンダリングと現実的な画像作成のための技術。Catmull は隠された表面除去、テクスチャマッピング、およびコンピュータアニメーション技術を開発しました。Pixar Animation Studios（彼が共同設立した）での彼の仕事はコンピュータ生成アニメーションをシネマに先駆けし、コンピュータグラフィックスが視覚的に魅力的なストーリーテリングを生成できることを確立しました。
+
+Hanrahan は現実的な画像合成、レイトレーシング、およびライティングモデルの技術を開発しました。彼は光がどのようにグローバルに複雑な3Dシーンでシミュレートされるかに関する研究で、写真と見分けがつかないコンピュータ生成画像を作成することを可能にする光を物理的に正確にシミュレートする原則を確立しました。彼の貢献がグラフィックスシステムと技術をレンダリングしました。
+
+彼らの貢献はコンピュータグラフィックスを物理学、数学、コンピュータサイエンスを結合した厳密な規律として確立しました。彼らのリサーチはアカデミアを超えてインダストリーに影響を与え、コンピュータグラフィックスがフィルム、ゲーム、ビジュアル化、およびインタラクティブメディアに不可欠になりました。彼らの貢献は、コンピュータがどのように画像を作成し、操作できるかに影響を与えました。
+
+---
+
+## 2021 – [Alfred V. Aho & Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Alfred_Aho) / [Jeffrey_Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)
+
+**受賞理由:** For their contributions to compiler design, programming languages, and algorithms. [[ACM source]](https://amturing.acm.org/award_winners/aho_1046358.cfm)
+
+AhoとUllmanはコンピュータサイエンスに基本的な貢献をしました。特にプログラミング言語設計、コンパイラ構築、およびアルゴリズムで。Ahóはパターン同時検索のための効率的なアルゴリズムを発明しました。正規表現とパターンマッチング（テキスト処理で中央になった）に貢献しました。彼はBrian WeberbergerとPeter Weibergerとのジョイント開発「AWK」（強力なテキスト処理言語）により、広く使用されたままです。
+
+Ullmanのデータベースシステムへの貢献、特にリレーショナルデータベースとクエリー最適化は、データベースが動作する方法についての理論的基礎を確立しました。彼のデータベースとプログラミング言語に関するテキストは標準的な参考文献になりました。
+
+彼らのコンパイラ設計に関する共同の仕事（彼らのテキストに文書化された）はコンパイラ構築の決定的な参考文献になり、コンパイラがどのように教えられ、構築されるかに影響を与えました。テキストは理論を実践と組み合わせ、言語設計とコンパイラ構築が厳密な数学的基礎を持つ規律であることを確立しました。
+
+---
+
+## 2021 – [Jack J. Dongarra](https://en.wikipedia.org/wiki/Jack_Dongarra)
+
+**受賞理由:** For his seminal contributions to numerical linear algebra algorithms and libraries, and his role in the rapid adoption of high-performance computing across science and engineering. [[ACM source]](https://amturing.acm.org/award_winners/dongarra_3406337.cfm)
+
+Dongarra は数値線形代数アルゴリズムとハイパフォーマンスコンピューティングに基本的な貢献をしました。彼はBLAS（基本線形代数サブプログラム）の開発に重要でした。これは異なるハードウェアプラットフォーム上で効率的な数値計算を可能にする標準の線形代数操作のライブラリです。彼のLAPACK（より高レベルの線形代数アルゴリズム）の仕事はBLASの効率性を活用しています。これらのライブラリは科学的計算の基礎になり、世界中の研究者によって使用されます。
+
+彼の貢献は異なるハードウェアアーキテクチャ上で高パフォーマンスを達成する数値ソフトウェアの記述方法を理解することに拡張しました。理論的なピークパフォーマンスと実際のシステムで達成されたパフォーマンス間のギャップを埋めることはコンピュータサイエンスに影響を与えました。GPU計算に関する彼の仕事は、グラフィックスプロセッサーが科学計算に使用でき、劇的なパフォーマンスの改善を可能にすることを確立しました。
+
+Dongarraのキャリアは、効率的なソフトウェアを通じて科学研究を可能にすることが価値のある研究努力であることを示しました。数値ライブラリへの彼の仕事と高パフォーマンスは、数値コンピューティングが正確さと効率の両方に厳密な注意に値することを確立しました。
+
+---
+
+## 2023 – [Robert (Bob) Metcalfe](https://en.wikipedia.org/wiki/Robert_Metcalfe)
+
+**受賞理由:** For the invention of Ethernet and his visionary leadership for the technological revolution in ubiquitous networking. [[ACM source]](https://amturing.acm.org/award_winners/metcalfe_3968158.cfm)
+
+Metcalfe はEthernetを発明しました。ローカルエリアネットワーク（LAN）の支配的なテクノロジーです。Xerox PARCで開発され、Ethernet はコンピュータが近接性を通じて信頼できるように通信することを可能にしました。彼の設計は優雅で実践的でした。シンプルで実装するのに十分で信頼できますが、有用な通信に十分に強力です。Ethernet はオフィス、データセンター、およびホームのコンピュータを接続するための標準になり、現代の社会が依存するネットワーキングコンピューティングを有効にしました。
+
+Ethernet を超えて、Metcalfe はMetcalfeの法則を確実にしました。接続されたデバイスの数の二乗に比例するネットワークの値。この洞察がネットワークがより多くのデバイスを接続するにつれてますます価値があるようになる理由を説明し、テクノロジーでのネットワーク効果の思考に影響を与えました。彼は計算に対するネットワーキングの重要性についてのビジョンを確立することに貢献しました。
+
+Metcalfe のキャリアはEthernetの技術的発明を超えました。彼はネットワーキングとその重要性についてのビジョンのために提唱し、ユビキタスネットワーキングが社会を変えるだろうというビジョンは非常に先見的であることが証明されました。彼の仕事は、通信インフラストラクチャが計算と同じくらい最新コンピューティングに重要であることを確立しました。
+
+---
+
+## 2024 – [Avi Wigderson](https://en.wikipedia.org/wiki/Avi_Wigderson)
+
+**受賞理由:** For his fundamental contributions to the understanding of computational complexity, particularly regarding randomness and hardness assumptions. [[ACM source]](https://amturing.acm.org/award_winners/wigderson_3844537.cfm)
+
+Wigderson は理論的なコンピュータサイエンスに深い貢献をしました。特に計算内でのランダム性の理解と異なる複雑性仮説間の関係で。彼のリサーチは、ランダム化されたアルゴリズムが決定論的アルゴリズムに変換される（多項式オーバーヘッド付き）ことを確立し、ランダム性を計算する力についての理解を統一しました。
+
+彼の硬度仮説と暗号化に関する仕事は、多くの計算問題が様々な仮説の下で同等であることを確立しました。彼のリサーチは、異なる複雑性クラスおよび硬度仮説間の構造を理解することに貢献しました。彼は、様々な硬度仮説が関連していること、一見異なる硬度概念が相互接続されていることを示しました。
+
+Wigderson のキャリアは理論的なコンピュータサイエンスの重要性を例示しました。彼の計算の力とランダム性と硬度の役割に関する仕事はこの分野の最前線です。彼は計算の根本的な自然についての基本的な質問に対処しています。
+
+---
+
+## 2024 – [Andrew G. Barto & Richard S. Sutton](https://en.wikipedia.org/wiki/Andrew_Barto) / [Richard_Sutton](https://en.wikipedia.org/wiki/Richard_Sutton_(computer_scientist))
+
+**受賞理由:** For their fundamental contributions to reinforcement learning, which has enabled the development of agents that learn optimal actions. [[ACM source]](https://amturing.acm.org/award_winners/barto_9471663.cfm)
+
+BartoとSutton は強化学習をパイオニアしました。エージェントが環境と相互作用を通じてトライアルエラーで決定するようになるパラダイムです。時間的差異学習とQ学習の彼らの開発は学習の最適な行動のための実用的な方法を確立しました。彼らのテキスト『Reinforcement Learning: An Introduction』はこの分野の決定的な参考文献になり、強化学習が理解され教えられる方法に影響を与えました。
+
+彼らのリサーチは、エージェントが明示的な監督がなく、報酬と罰を通じて学習することで有効な行動を学ぶことができることを確立しました。このラーニングパラダイムは強力で柔軟で、ゲームプレーからロボット制御まで多くのドメインに適用できます。彼らが深層学習研究者と深いニューラルネットワークを強化学習と組み合わせたことは、AlphaGoのような画期的な結果を可能にしました。
+
+彼らの強化学習を厳密な規律として確立することへの貢献は、レーニングとエージェント意思決定についてのコンピュータサイエンスの視点に影響を与えました。彼らの仕事は、エージェントが経験から学ぶことで より良い決定を下すようになることができることを示しました。
+
+---
+
+## 2025 – [Charles H. Bennett & Gilles Brassard](https://en.wikipedia.org/wiki/Charles_Bennett_(physicist)) / [Gilles_Brassard](https://en.wikipedia.org/wiki/Gilles_Brassard)
+
+**受賞理由:** For foundational contributions to quantum information science, including the invention of quantum cryptography and quantum teleportation. [[ACM source]](https://amturing.acm.org/award_winners/bennett_1202470.cfm)
+
+BennettとBrassard は量子情報科学の創立者の一人であり、BB84量子鍵分配プロトコルを発明しました。これは量子力学の法則を活用して物理法則によって保証されるセキュアな通信を実現します。ノーベル賞は量子通信を盗聴しようとすると量子状態が避けられず混乱し、検出されます。このブレークスルーは、量子力学が実践的なセキュリティ問題を解決するために活用できることを確立しました。
+
+彼らの量子テレポーテーション作業はエンタングル加われた量子状態とクラシカル通信を使用する別の場所に量子情報が送信できることを示しました。相対性と因果律への懸念を表面的に見えますが、量子力学がどのように機能するかを実際に例示しています。光より速く情報を送信することはできません。しかし量子状態は転送できます。彼らの仕事は量子情報を新しい豊かな分野として確立しました。物理学、情報理論、コンピュータサイエンスを結合しています。
+
+彼らの量子情報科学への貢献は、量子効果がハーネストで実践的なコンピューティングおよび通信アプリケーションで使用できることを確立しました。彼らのRiasearch はアカデミアを超えてインダストリーに影響を与え、量子情報科学は最も約束された研究分野の一つになりました。彼らの仕事は科学技術の最前線を開きました。
 
 ---
 
