@@ -6,7 +6,7 @@
 
 ---
 
-## 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+## 💡 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 **受賞理由:** For his influence in the area of programming languages and programming technique. [[ACM source]](https://amturing.acm.org/award_winners/perlis_1000187.cfm)
 
