@@ -6,7 +6,7 @@ Each section below provides biographical context for ACM A.M. Turing Award recip
 
 ---
 
-## 💡 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+## 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 **Award Citation:** For his influence in the area of programming languages and programming technique. [[ACM source]](https://amturing.acm.org/award_winners/perlis_1000187.cfm)
 
@@ -66,7 +66,7 @@ For decades, Wilkinson's books—*The Algebraic Eigenvalue Problem* (1965) and *
 
 ---
 
-## 💡 1971 – [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
+## 1971 – [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 **Award Citation:** For his major contributions to artificial intelligence, including the invention of LISP. [[ACM source]](https://amturing.acm.org/award_winners/mccarthy_1000190.cfm)
 
@@ -150,7 +150,7 @@ Scott was also deeply influential in mathematical logic, particularly in his wor
 
 ---
 
-## 💡 1977 – [John Backus](https://en.wikipedia.org/wiki/John_Backus)
+## 1977 – [John Backus](https://en.wikipedia.org/wiki/John_Backus)
 
 **Award Citation:** For his design and realization of the FORTRAN system and for his contributions to the theory and practice of programming languages. [[ACM source]](https://amturing.acm.org/award_winners/backus_1000195.cfm)
 
@@ -198,7 +198,7 @@ Hoare's 1980 Turing Award Lecture "The Emperor's Old Clothes" is a remarkable re
 
 ---
 
-## 💡 1981 – [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+## 1981 – [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
 
 **Award Citation:** For his fundamental and continuing contributions to the theory and practice of database management systems. [[ACM source]](https://amturing.acm.org/award_winners/codd_1000198.cfm)
 
@@ -558,7 +558,7 @@ Kay's contributions extended beyond specific systems to articulating a vision of
 
 ---
 
-## 💡 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
+## 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
 
 **Award Citation:** For their design and realization of the TCP/IP protocols that are the foundation of the Internet. [[ACM source]](https://amturing.acm.org/award_winners/cerf_1083211.cfm)
 
@@ -750,7 +750,7 @@ Their contributions to establishing RISC as a successful paradigm influenced gen
 
 ---
 
-## 💡 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+## 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 **Award Citation:** For their groundbreaking advances in deep neural networks and their applications to computer vision, speech recognition, and natural language processing. [[ACM source]](https://amturing.acm.org/award_winners/hinton_4791679.cfm)
 

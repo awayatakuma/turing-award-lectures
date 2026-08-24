@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+## 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 **受賞理由:** For his influence in the area of programming languages and programming technique. [[ACM source]](https://amturing.acm.org/award_winners/perlis_1000187.cfm)
 
@@ -66,7 +66,7 @@ Wilkinsonは彼の時代の主導的な数値解析官で、コンピュータ�
 
 ---
 
-## 💡 1971 – [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
+## 1971 – [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 **受賞理由:** For his major contributions to artificial intelligence, including the invention of LISP. [[ACM source]](https://amturing.acm.org/award_winners/mccarthy_1000190.cfm)
 
@@ -148,7 +148,7 @@ Scottは数学的ロジックで重要でもありました。特に集合論に
 
 ---
 
-## 💡 1977 – [John Backus](https://en.wikipedia.org/wiki/John_Backus)
+## 1977 – [John Backus](https://en.wikipedia.org/wiki/John_Backus)
 
 **受賞理由:** For his design and realization of the FORTRAN system and for his contributions to the theory and practice of programming languages. [[ACM source]](https://amturing.acm.org/award_winners/backus_1000195.cfm)
 
@@ -196,7 +196,7 @@ Hoareの1980年のチューリング賞講演「The Emperor's Old Clothes」は�
 
 ---
 
-## 💡 1981 – [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+## 1981 – [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
 
 **受賞理由:** For his fundamental and continuing contributions to the theory and practice of database management systems. [[ACM source]](https://amturing.acm.org/award_winners/codd_1000198.cfm)
 
@@ -554,7 +554,7 @@ Kay の貢献はシステムを超えて、コンピューティングが人間�
 
 ---
 
-## 💡 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
+## 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
 
 **受賞理由:** For their design and realization of the TCP/IP protocols that are the foundation of the Internet. [[ACM source]](https://amturing.acm.org/award_winners/cerf_1083211.cfm)
 
@@ -746,7 +746,7 @@ HennessyとPatterson は RISC（削減されたインストラクションセッ
 
 ---
 
-## 💡 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+## 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 **受賞理由:** For their groundbreaking advances in deep neural networks and their applications to computer vision, speech recognition, and natural language processing. [[ACM source]](https://amturing.acm.org/award_winners/hinton_4791679.cfm)
 
