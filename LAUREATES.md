@@ -1,12 +1,12 @@
-# A.M. Turing Award Recipients: Biographical Overview
+# 🏆 A.M. Turing Award Recipients: Biographical Overview
 
 Each section below provides biographical context for ACM A.M. Turing Award recipients (1966–2025), including the original award citation, their major contributions to computer science, and related achievements that shaped the field.
 
-**Available in other languages:** [日本語版 (Japanese)](./LAUREATES.ja.md)
+📊 **70 Recipients** · 🌐 **Available in other languages:** [日本語版 (Japanese)](./LAUREATES.ja.md)
 
 ---
 
-## 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+## 💡 1966 – [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 
 **Award Citation:** For his influence in the area of programming languages and programming technique. [[ACM source]](https://amturing.acm.org/award_winners/perlis_1000187.cfm)
 

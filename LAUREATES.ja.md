@@ -1,8 +1,8 @@
-# A.M. Turing Award 受賞者: 伝記概要
+# 🏆 A.M. Turing Award 受賞者: 伝記概要
 
 以下の各セクションは、ACM A.M. Turing Award 受賞者（1966～2025年）の伝記的背景を提供します。元の受賞理由、コンピュータ科学への主な貢献、およびこの分野を形成した関連業績を含みます。
 
-**他言語:** [English](./LAUREATES.md)
+📊 **70人の受賞者** · 🌐 **他言語:** [English](./LAUREATES.md)
 
 ---
 
