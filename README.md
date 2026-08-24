@@ -6,9 +6,31 @@ Every recipient of the ACM A.M. Turing Award has given a lecture, and a lot of t
 
 🌐 **Languages:** [日本語版 (Japanese)](./README.ja.md) · [📖 Detailed Biographies](./LAUREATES.md) 
 
-Sources are preferred in this order: the author's own site or institutional archive, an open publisher/venue page (e.g. an open CACM article), a legitimate public archive (Internet Archive), a university course/library page hosting a PDF. Deliberately excluded: unaffiliated personal sites that host scanned reprints of the copyrighted _ACM Turing Award Lectures_ book with no institutional or author backing (e.g. jdl.link, rkka21.ru) — their legality is unclear, so they're skipped even when they're the only "free" copy a search turns up. Where a lecture was never formally published, or nothing clean could be found, the table says so instead of linking something dubious.
+---
 
-[ACM made its entire Digital Library open access on January 1, 2026](https://news.slashdot.org/story/25/12/19/168225/acm-to-make-its-entire-digital-library-open-access-starting-january-2026) — most [dl.acm.org](https://dl.acm.org/) links now work without a login. Where a written lecture is confirmed to exist, this table links straight to its DOI, cross-checked against [ACM's own lecture listing](https://amturing.acm.org/lectures.cfm). A row still marked "no free version found" means the lecture isn't on that official list either — it was apparently never formally published or recorded.
+## 📚 How to Use This Resource
+
+**Resource Types in This Archive:**
+- 📄 **PDF** – Full lecture documents
+- 🎥 **Video** – Recorded presentations  
+- 📝 **Text** – Transcriptions or essays
+
+**Source Quality Hierarchy:**
+1. 👤 Author's own site or institutional archive
+2. 🏛️ Open publisher/venue page (e.g., open CACM article)
+3. 📦 Legitimate public archive (Internet Archive)
+4. 🎓 University course/library page hosting a PDF
+
+> ⚠️ Intentionally excluded: unaffiliated personal sites that host scanned reprints of the copyrighted _ACM Turing Award Lectures_ book with no institutional or author backing (e.g. jdl.link, rkka21.ru) — their legality is unclear.
+
+**Access & Verification:**
+[ACM made its entire Digital Library open access on January 1, 2026](https://news.slashdot.org/story/25/12/19/168225/acm-to-make-its-entire-digital-library-open-access-starting-january-2026). Most links now work without login. This table links straight to DOI when confirmed, cross-checked against [ACM's official lecture listing](https://amturing.acm.org/lectures.cfm).
+
+---
+
+## 📋 Complete Lecture Archive
+
+| Year | Laureate(s) | Lecture | Free link |
 
 | Year | Laureate(s)                                 | Lecture                                                                                              | Free link                                                                                                                                                                                                                                                                                                                        |
 | ---- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

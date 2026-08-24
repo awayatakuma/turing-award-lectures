@@ -66,7 +66,7 @@ Wilkinsonは彼の時代の主導的な数値解析官で、コンピュータ�
 
 ---
 
-## 1971 – [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
+## 🤖 1971 – [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 **受賞理由:** For his major contributions to artificial intelligence, including the invention of LISP. [[ACM source]](https://amturing.acm.org/award_winners/mccarthy_1000190.cfm)
 
@@ -148,7 +148,7 @@ Scottは数学的ロジックで重要でもありました。特に集合論に
 
 ---
 
-## 1977 – [John Backus](https://en.wikipedia.org/wiki/John_Backus)
+## 🔤 1977 – [John Backus](https://en.wikipedia.org/wiki/John_Backus)
 
 **受賞理由:** For his design and realization of the FORTRAN system and for his contributions to the theory and practice of programming languages. [[ACM source]](https://amturing.acm.org/award_winners/backus_1000195.cfm)
 
@@ -196,7 +196,7 @@ Hoareの1980年のチューリング賞講演「The Emperor's Old Clothes」は�
 
 ---
 
-## 1981 – [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+## 📊 1981 – [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
 
 **受賞理由:** For his fundamental and continuing contributions to the theory and practice of database management systems. [[ACM source]](https://amturing.acm.org/award_winners/codd_1000198.cfm)
 
@@ -208,7 +208,7 @@ Coddはリレーショナルデータベースモデルを発明しました。�
 
 ---
 
-## 1982 – [Stephen A. Cook](https://en.wikipedia.org/wiki/Stephen_Cook)
+## 🧮 1982 – [Stephen A. Cook](https://en.wikipedia.org/wiki/Stephen_Cook)
 
 **受賞理由:** For his advancement of our understanding of the complexity of computation. [[ACM source]](https://amturing.acm.org/award_winners/cook_1000199.cfm)
 
@@ -220,7 +220,7 @@ Cookのコンプレックス理論への他の貢献には、スペース複雑�
 
 ---
 
-## 1983 – [Dennis M. Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+## 🔧 1983 – [Dennis M. Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
 **受賞理由:** For his development of the C programming language and his contributions to computer systems science. [[ACM source]](https://amturing.acm.org/award_winners/ritchie_1000200.cfm)
 
@@ -232,7 +232,7 @@ Cを超えて、Ritchieはプログラミング言語設計、オペレーティ
 
 ---
 
-## 1983 – [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+## 🔧 1983 – [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 
 **受賞理由:** For the design and realization of the UNIX system and for his contributions to the field of computing. [[ACM source]](https://amturing.acm.org/award_winners/thompson_1000201.cfm)
 
@@ -412,7 +412,7 @@ Reddy のキャリアは、AIリサーチが実践的な問題に向けられる
 
 ---
 
-## 1995 – [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum)
+## 🔐 1995 – [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum)
 
 **受賞理由:** For his contributions to the foundations of computational complexity theory and its applications to cryptography and program checking. [[ACM source]](https://amturing.acm.org/award_winners/blum_1000214.cfm)
 
@@ -506,7 +506,7 @@ Nygaard の貢献はSimula を超えました。民主的でコンピュータ�
 
 ---
 
-## 2002 – [Leonard M. Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman)
+## 🔐 2002 – [Leonard M. Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman)
 
 **受賞理由:** For his contributions to cryptography and the development of the RSA cryptosystem. [[ACM source]](https://amturing.acm.org/award_winners/adleman_7308544.cfm)
 
@@ -518,7 +518,7 @@ Adleman の RSA の仕事は深刻な実践的な結果を持っていました�
 
 ---
 
-## 2002 – [Ronald L. Rivest](https://en.wikipedia.org/wiki/Ronald_Rivest)
+## 🔐 2002 – [Ronald L. Rivest](https://en.wikipedia.org/wiki/Ronald_Rivest)
 
 **受賞理由:** For his contributions to cryptography and the development of the RSA cryptosystem. [[ACM source]](https://amturing.acm.org/award_winners/rivest_1403005.cfm)
 
@@ -530,7 +530,7 @@ Rivest はまた暗号化の理論を厳密に分析することを確立する�
 
 ---
 
-## 2002 – [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir)
+## 🔐 2002 – [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir)
 
 **受賞理由:** For his contributions to cryptography and the development of the RSA cryptosystem. [[ACM source]](https://amturing.acm.org/award_winners/shamir_2327856.cfm)
 
@@ -554,7 +554,7 @@ Kay の貢献はシステムを超えて、コンピューティングが人間�
 
 ---
 
-## 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
+## 🌐 2004 – [Vinton G. Cerf & Robert E. Kahn](https://en.wikipedia.org/wiki/Vint_Cerf) / [Robert_Kahn](https://en.wikipedia.org/wiki/Robert_Kahn)
 
 **受賞理由:** For their design and realization of the TCP/IP protocols that are the foundation of the Internet. [[ACM source]](https://amturing.acm.org/award_winners/cerf_1083211.cfm)
 
@@ -746,7 +746,7 @@ HennessyとPatterson は RISC（削減されたインストラクションセッ
 
 ---
 
-## 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+## 🤖 2018 – [Yoshua Bengio, Geoffrey Hinton & Yann LeCun](https://en.wikipedia.org/wiki/Yoshua_Bengio) / [Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) / [Yann_LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 **受賞理由:** For their groundbreaking advances in deep neural networks and their applications to computer vision, speech recognition, and natural language processing. [[ACM source]](https://amturing.acm.org/award_winners/hinton_4791679.cfm)
 
