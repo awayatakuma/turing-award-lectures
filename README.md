@@ -2,7 +2,7 @@
 
 Every recipient of the ACM A.M. Turing Award has given a lecture, and a lot of them hold up as genuinely good writing about computing, not just historical curiosities. For most of this list's history, the only place they were published — [`dl.acm.org`](https://dl.acm.org/) — sat behind a login wall, which is why this table exists: one link per laureate, 1966–2025, pointed at a version that's actually free to open.
 
-**Available in other languages:** [日本語版 (Japanese)](./README.ja.md) · [詳細な受賞者紹介 (Biographical Overview)](./LAUREATES.md)
+**Available in other languages:** [日本語版 (Japanese)](./README.ja.md) 
 
 Sources are preferred in this order: the author's own site or institutional archive, an open publisher/venue page (e.g. an open CACM article), a legitimate public archive (Internet Archive), a university course/library page hosting a PDF. Deliberately excluded: unaffiliated personal sites that host scanned reprints of the copyrighted _ACM Turing Award Lectures_ book with no institutional or author backing (e.g. jdl.link, rkka21.ru) — their legality is unclear, so they're skipped even when they're the only "free" copy a search turns up. Where a lecture was never formally published, or nothing clean could be found, the table says so instead of linking something dubious.
 
