@@ -1,8 +1,8 @@
-# A.M. Turing Award Recipients: Biographical Overview
+# 🏆 A.M. Turing Award Recipients: Biographical Overview
 
 Each section below provides biographical context for ACM A.M. Turing Award recipients (1966–2025), including the original award citation, their major contributions to computer science, and related achievements that shaped the field.
 
-**Available in other languages:** [日本語版 (Japanese)](./LAUREATES.ja.md)
+📊 **70 Recipients** · 🌐 **Available in other languages:** [日本語版 (Japanese)](./LAUREATES.ja.md)
 
 ---
 
