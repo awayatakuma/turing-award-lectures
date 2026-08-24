@@ -208,7 +208,7 @@ Coddはリレーショナルデータベースモデルを発明しました。�
 
 ---
 
-## 🧮 1982 – [Stephen A. Cook](https://en.wikipedia.org/wiki/Stephen_Cook)
+## 1982 – [Stephen A. Cook](https://en.wikipedia.org/wiki/Stephen_Cook)
 
 **受賞理由:** For his advancement of our understanding of the complexity of computation. [[ACM source]](https://amturing.acm.org/award_winners/cook_1000199.cfm)
 
@@ -220,7 +220,7 @@ Cookのコンプレックス理論への他の貢献には、スペース複雑�
 
 ---
 
-## 🔧 1983 – [Dennis M. Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+## 1983 – [Dennis M. Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
 **受賞理由:** For his development of the C programming language and his contributions to computer systems science. [[ACM source]](https://amturing.acm.org/award_winners/ritchie_1000200.cfm)
 
@@ -232,7 +232,7 @@ Cを超えて、Ritchieはプログラミング言語設計、オペレーティ
 
 ---
 
-## 🔧 1983 – [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+## 1983 – [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 
 **受賞理由:** For the design and realization of the UNIX system and for his contributions to the field of computing. [[ACM source]](https://amturing.acm.org/award_winners/thompson_1000201.cfm)
 
@@ -412,7 +412,7 @@ Reddy のキャリアは、AIリサーチが実践的な問題に向けられる
 
 ---
 
-## 🔐 1995 – [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum)
+## 1995 – [Manuel Blum](https://en.wikipedia.org/wiki/Manuel_Blum)
 
 **受賞理由:** For his contributions to the foundations of computational complexity theory and its applications to cryptography and program checking. [[ACM source]](https://amturing.acm.org/award_winners/blum_1000214.cfm)
 
@@ -506,7 +506,7 @@ Nygaard の貢献はSimula を超えました。民主的でコンピュータ�
 
 ---
 
-## 🔐 2002 – [Leonard M. Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman)
+## 2002 – [Leonard M. Adleman](https://en.wikipedia.org/wiki/Leonard_Adleman)
 
 **受賞理由:** For his contributions to cryptography and the development of the RSA cryptosystem. [[ACM source]](https://amturing.acm.org/award_winners/adleman_7308544.cfm)
 
@@ -518,7 +518,7 @@ Adleman の RSA の仕事は深刻な実践的な結果を持っていました�
 
 ---
 
-## 🔐 2002 – [Ronald L. Rivest](https://en.wikipedia.org/wiki/Ronald_Rivest)
+## 2002 – [Ronald L. Rivest](https://en.wikipedia.org/wiki/Ronald_Rivest)
 
 **受賞理由:** For his contributions to cryptography and the development of the RSA cryptosystem. [[ACM source]](https://amturing.acm.org/award_winners/rivest_1403005.cfm)
 
@@ -530,7 +530,7 @@ Rivest はまた暗号化の理論を厳密に分析することを確立する�
 
 ---
 
-## 🔐 2002 – [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir)
+## 2002 – [Adi Shamir](https://en.wikipedia.org/wiki/Adi_Shamir)
 
 **受賞理由:** For his contributions to cryptography and the development of the RSA cryptosystem. [[ACM source]](https://amturing.acm.org/award_winners/shamir_2327856.cfm)
 
